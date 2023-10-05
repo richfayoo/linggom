@@ -1,0 +1,2 @@
+# linggom
+AI Based StartUp
